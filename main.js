@@ -1,9 +1,9 @@
 const LinksSocialMedia = {
-  github: 'akranz79',
-  linkedin: 'in/akranz',
-  facebook: 'ahkranz79',
-  instagram: 'henrytech7',
-  twitter: 'Alexand20297572',
+  github: 'dalilabellorin',
+  linkedin: 'in/dalila-bellorin-362a30112',
+  facebook: 'dalila.bellorin.58',
+  instagram: 'bellorindaza10',
+  twitter: 'BellorinDalila',
   youtube: 'channel/UC1WRr5kwU2lSwCu6HMLlCpg'
 }
 
